@@ -14,6 +14,7 @@
 #define SHADER_H_INCLUDED
 
 #include <string>
+#include <string.h>
 
 namespace gl
 {

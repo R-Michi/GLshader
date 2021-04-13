@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_DEPRECATE
-#include "../Shader.h"
+#include "../shader.h"
 #include <cstdio>
 #define GLEW_STATIC
 #include <GL/glew.h>
